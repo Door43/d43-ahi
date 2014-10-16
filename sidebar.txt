@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ahi:home|Door43 (ahi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ahi|d43-ahi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ahi/archive/master.zip|d43-ahi.zip]]
+
+**Recent Changes**
+{{changes>ns = ahi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ahi|Ethnologue data]]
+
